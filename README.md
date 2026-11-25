@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 037cb80234b8e4f34fec8dfb0db744ea9ba7a5ac
 # Employee Management System
 
 **Java Console Application | Algorithms & Architecture Assessment**
